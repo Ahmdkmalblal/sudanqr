@@ -1,0 +1,18 @@
+.nav {
+display: flex;
+flex-wrap: wrap;
+margin-bottom: 0;
+list-style: none;
+}
+.nav-link {
+    
+    display: block;
+padding: 0.5rem 1rem;
+}
+.bg-light {
+background-color: rgba(26, 153, 111, 0.445);
+
+}
+
+
+
